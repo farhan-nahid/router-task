@@ -1,7 +1,12 @@
 import React from 'react';
+import AllTodo from '../components/AllTodo/AllTodo';
 
 const Home = () => {
-  return <div></div>;
+  return (
+    <div>
+      <AllTodo />
+    </div>
+  );
 };
 
 export default Home;
