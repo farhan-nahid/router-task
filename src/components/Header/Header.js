@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <Navbar bg='light' expand='lg'>
       <Container>
-        <Navbar.Brand as={NavLink} exact to='/' activeClassName='active'>
+        <Navbar.Brand as={NavLink} exact to='/'>
           React Router Task
         </Navbar.Brand>
         <Navbar.Toggle aria-controls='basic-navbar-nav' />
