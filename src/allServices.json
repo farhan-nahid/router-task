@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/xYsx973/service1.jpg",
+    "name": "Teeth Whitening",
+    "price": 1000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam doloribus quas voluptatem inventore quo nisi labore possimus necessitatibus cupiditate deserunt illo exercitationem, id ipsam voluptas nostrum non nihil ab error praesentium. A impedit quae iure excepturi mollitia doloribus pariatur molestiae sint, minus voluptatibus sunt distinctio commodi. Enim magnam quam illo?"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/cYPjqtQ/service2.jpg",
+    "name": "Orthodontics",
+    "price": 1200,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam doloribus quas voluptatem inventore quo nisi labore possimus necessitatibus cupiditate deserunt illo exercitationem, id ipsam voluptas nostrum non nihil ab error praesentium. A impedit quae iure excepturi mollitia doloribus pariatur molestiae sint, minus voluptatibus sunt distinctio commodi. Enim magnam quam illo?"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/Bg8Nk5M/service3.jpg",
+    "name": "Routine Dental Exam",
+    "price": 900,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam doloribus quas voluptatem inventore quo nisi labore possimus necessitatibus cupiditate deserunt illo exercitationem, id ipsam voluptas nostrum non nihil ab error praesentium. A impedit quae iure excepturi mollitia doloribus pariatur molestiae sint, minus voluptatibus sunt distinctio commodi. Enim magnam quam illo?"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/94WCzjD/service4.jpg",
+    "name": "Tooth Extraction",
+    "price": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam doloribus quas voluptatem inventore quo nisi labore possimus necessitatibus cupiditate deserunt illo exercitationem, id ipsam voluptas nostrum non nihil ab error praesentium. A impedit quae iure excepturi mollitia doloribus pariatur molestiae sint, minus voluptatibus sunt distinctio commodi. Enim magnam quam illo?"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/nRW6HZY/service5.jpg",
+    "name": "Dental Fillings",
+    "price": 1100,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam doloribus quas voluptatem inventore quo nisi labore possimus necessitatibus cupiditate deserunt illo exercitationem, id ipsam voluptas nostrum non nihil ab error praesentium. A impedit quae iure excepturi mollitia doloribus pariatur molestiae sint, minus voluptatibus sunt distinctio commodi. Enim magnam quam illo?"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/zs1ky5k/service6.jpg",
+    "name": "Root Canal Treatment",
+    "price": 700,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam doloribus quas voluptatem inventore quo nisi labore possimus necessitatibus cupiditate deserunt illo exercitationem, id ipsam voluptas nostrum non nihil ab error praesentium. A impedit quae iure excepturi mollitia doloribus pariatur molestiae sint, minus voluptatibus sunt distinctio commodi. Enim magnam quam illo?"
+  }
+]
